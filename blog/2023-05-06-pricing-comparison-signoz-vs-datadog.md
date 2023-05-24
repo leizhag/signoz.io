@@ -134,8 +134,8 @@ Large businesses need observability at scale. Here’s a cost comparison for a h
 | **Logs** <br></br>20,000 GB ingested | $8,000 | $9,950 |  |  |
 | **Metrics** <br></br>13 million samples per infra host (1) | $455 | $865 |  |  |
 | **Traces** <br></br>43.8 GB per APM host | $3,942 | $4,878 |  |  |
-| **Data Ingest** |  |  |  | $10,292 |
-| **Users** |  |  |  | $18,860 |
+| **Data Ingest** |  |  | $10,292 |  |
+| **Users** |  |  | $18,860 |  |
 | Total | $12,397 | $17,292 | $29,152 | $68,743 |
 | Up to **5.5x more value for money** with SigNoz |  |  |  |  |
 
