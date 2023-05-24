@@ -118,7 +118,7 @@ As your business grows, the engineering team needs to scale too. Here’s a cost
 | **Metrics** <br></br>13 million samples per infra host (1) | $260 | $494 |  |  |
 | **Traces** <br></br>43.8 GB per APM host | $2,190 | $2,688 |  |  |
 | **Data Ingest** |  |  | $5,393 |  |
-| **Users** |  |  | $9,430 |  |
+| **Users** |  | $800 | $9,430 |  |
 | Total | $6,450 | $8,932 | $14,823 | $30,213 |
 | Up to **4.7x more value for money** with SigNoz |  |  |  |  |
 
@@ -135,7 +135,7 @@ Large businesses need observability at scale. Here’s a cost comparison for a h
 | **Metrics** <br></br>13 million samples per infra host (1) | $455 | $865 |  |  |
 | **Traces** <br></br>43.8 GB per APM host | $3,942 | $4,878 |  |  |
 | **Data Ingest** |  |  | $10,292 |  |
-| **Users** |  |  | $18,860 |  |
+| **Users** |  | $1,600 | $18,860 |  |
 | Total | $12,397 | $17,292 | $29,152 | $68,743 |
 | Up to **5.5x more value for money** with SigNoz |  |  |  |  |
 
